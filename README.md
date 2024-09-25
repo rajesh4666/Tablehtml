@@ -19,3 +19,4 @@ Error Reporting: The table includes a row to display errors when the time gap ex
 Forecast: Total must match for sorting processes to proceed.
 
 Sample Data Structure:
+![TimeTable](https://github.com/user-attachments/assets/3fb97ac9-f11a-4260-a38a-694a0f175f88)
